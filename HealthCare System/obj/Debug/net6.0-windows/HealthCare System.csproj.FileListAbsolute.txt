@@ -1,0 +1,29 @@
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\HealthCare System.exe
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\HealthCare System.deps.json
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\HealthCare System.runtimeconfig.json
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\HealthCare System.dll
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\HealthCare System.pdb
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.csproj.AssemblyReference.cache
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare_System.Form1.resources
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.csproj.GenerateResource.cache
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.AssemblyInfoInputs.cache
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.AssemblyInfo.cs
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.csproj.CoreCompileInputs.cache
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.dll
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\refint\HealthCare System.dll
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.pdb
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.genruntimeconfig.cache
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\ref\HealthCare System.dll
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HealthCare System\HealthCare System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare_System.AdminScreen.resources
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare_System.AppointmentHistory.resources
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare_System.ManageDoctors.resources
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare_System.UserScreencs.resources
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare System.csproj.CopyComplete
+D:\HealthCare System\HealthCare System\obj\Debug\net6.0-windows\HealthCare_System.SignUp.resources
